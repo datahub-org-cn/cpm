@@ -1,11 +1,7 @@
 # CPM
 
 #### Data.zip
-data.zip is a compressed file containing an SQLite database examples.
-For academic data usage requests, please connects us by 3 ways:
-1.send email to cmizcy@163.com(周崇云)
-2.visit https://yiyuan.ac.cn.
-3.visit https://github.com/datahub-org-cn
+data.zip is a compressed file containing an SQLite database.
 
 #### records Field
 
